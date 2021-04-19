@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1802.975" height="961.95" viewBox="0 0 1802.975 961.95">
+  <g id="footer-deco" transform="translate(2.475 2.475)">
+    <line id="Line_3" data-name="Line 3" y1="771" x2="771" transform="translate(138 19)" fill="none" stroke="#f8fe45" stroke-width="7"/>
+    <line id="Line_6" data-name="Line 6" y1="771" x2="771" transform="translate(152)" fill="none" stroke="#f145ff" stroke-width="7"/>
+    <line id="Line_4" data-name="Line 4" y1="771" x2="771" transform="translate(0 186)" fill="none" stroke="#f8fe45" stroke-width="7"/>
+    <line id="Line_5" data-name="Line 5" y1="771" x2="771" transform="translate(14 167)" fill="none" stroke="#f145ff" stroke-width="7"/>
+    <g id="Group_5" data-name="Group 5" transform="translate(-373.5 -107.5)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="457" height="148" transform="translate(618 490)" fill="#45ffd4" opacity="0.417"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="500" height="148" transform="translate(618 331)" fill="#f8ff45" opacity="0.417"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="504" height="148" transform="translate(642 351)" fill="#f8ff45"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="457" height="148" transform="translate(638 510)" fill="#45ffd4"/>
+      <text id="FROM" transform="translate(653 325)" fill="#1a1a1a" font-size="160" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="156">FROM</tspan></text>
+      <text id="ZER" transform="translate(653 490)" fill="#1a1a1a" font-size="149" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="145">ZER</tspan></text>
+      <g id="Group_2" data-name="Group 2" transform="translate(17 80.345)">
+        <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="55.5" cy="57" rx="55.5" ry="57" transform="translate(941 446.655)" fill="#1a1a1a"/>
+        <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="55.5" cy="57" rx="55.5" ry="57" transform="translate(941 446.655)" fill="#1a1a1a"/>
+        <g id="Group_1" data-name="Group 1" transform="translate(985.548 492.074)">
+          <line id="Line_1" data-name="Line 1" x2="48.519" y2="52.039" transform="translate(-13.308 -14.155)" fill="none" stroke="#fff" stroke-width="4"/>
+          <line id="Line_2" data-name="Line 2" x2="52.567" y2="48.523" transform="translate(35.213 -14.419) rotate(90)" fill="none" stroke="#fff" stroke-width="4" opacity="0.8"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(326.5 -107.5)">
+      <rect id="Rectangle_2-2" data-name="Rectangle 2" width="838" height="148" transform="translate(618 490)" fill="#ff45db" opacity="0.417"/>
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="139" height="100" transform="translate(435 490)" fill="#fff" opacity="0.417"/>
+      <rect id="Rectangle_4-2" data-name="Rectangle 4" width="137" height="104" transform="translate(448 505)" fill="#fff"/>
+      <rect id="Rectangle_3-2" data-name="Rectangle 3" width="836" height="148" transform="translate(638 510)" fill="#ff45db"/>
+      <text id="TO" transform="translate(459 509)" fill="#1a1a1a" font-size="80" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="78">TO</tspan></text>
+      <text id="_1" data-name="1" transform="translate(653 490)" fill="#1a1a1a" font-size="149" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="145">1</tspan></text>
+      <text id="_1-2" data-name="1" transform="translate(653 490)" fill="#1a1a1a" font-size="149" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="145">1</tspan></text>
+      <g id="Group_2-2" data-name="Group 2" transform="translate(17 80.345)">
+        <ellipse id="Ellipse_2-2" data-name="Ellipse 2" cx="55.5" cy="57" rx="55.5" ry="57" transform="translate(714 446.655)" fill="#1a1a1a"/>
+        <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="55.5" cy="57" rx="55.5" ry="57" transform="translate(834 446.655)" fill="#1a1a1a"/>
+        <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="55.5" cy="57" rx="55.5" ry="57" transform="translate(954 446.655)" fill="#1a1a1a"/>
+        <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="55.5" cy="57" rx="55.5" ry="57" transform="translate(1074 446.655)" fill="#1a1a1a"/>
+        <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="55.5" cy="57" rx="55.5" ry="57" transform="translate(1194 446.655)" fill="#1a1a1a"/>
+        <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="55.5" cy="57" rx="55.5" ry="57" transform="translate(1314 446.655)" fill="#1a1a1a"/>
+        <g id="Group_1-2" data-name="Group 1" transform="translate(985.548 492.074)">
+          <line id="Line_1-2" data-name="Line 1" x2="48.519" y2="52.039" transform="translate(-240.308 -14.155)" fill="none" stroke="#fff" stroke-width="4"/>
+          <line id="Line_8" data-name="Line 8" x2="48.519" y2="52.039" transform="translate(-120.308 -14.155)" fill="none" stroke="#fff" stroke-width="4"/>
+          <line id="Line_10" data-name="Line 10" x2="48.519" y2="52.039" transform="translate(-0.308 -14.155)" fill="none" stroke="#fff" stroke-width="4"/>
+          <line id="Line_12" data-name="Line 12" x2="48.519" y2="52.039" transform="translate(-0.308 -14.155)" fill="none" stroke="#fff" stroke-width="4"/>
+          <line id="Line_13" data-name="Line 13" x2="48.519" y2="52.039" transform="translate(119.692 -14.155)" fill="none" stroke="#fff" stroke-width="4"/>
+          <line id="Line_15" data-name="Line 15" x2="48.519" y2="52.039" transform="translate(239.692 -14.155)" fill="none" stroke="#fff" stroke-width="4"/>
+          <line id="Line_17" data-name="Line 17" x2="48.519" y2="52.039" transform="translate(359.692 -14.155)" fill="none" stroke="#fff" stroke-width="4"/>
+          <line id="Line_2-2" data-name="Line 2" x2="52.567" y2="48.523" transform="translate(-191.787 -14.419) rotate(90)" fill="none" stroke="#fff" stroke-width="4" opacity="0.8"/>
+          <line id="Line_7" data-name="Line 7" x2="52.567" y2="48.523" transform="translate(-71.787 -14.419) rotate(90)" fill="none" stroke="#fff" stroke-width="4" opacity="0.8"/>
+          <line id="Line_9" data-name="Line 9" x2="52.567" y2="48.523" transform="translate(48.213 -14.419) rotate(90)" fill="none" stroke="#fff" stroke-width="4" opacity="0.8"/>
+          <line id="Line_11" data-name="Line 11" x2="52.567" y2="48.523" transform="translate(48.213 -14.419) rotate(90)" fill="none" stroke="#fff" stroke-width="4" opacity="0.8"/>
+          <line id="Line_14" data-name="Line 14" x2="52.567" y2="48.523" transform="translate(168.213 -14.419) rotate(90)" fill="none" stroke="#fff" stroke-width="4" opacity="0.8"/>
+          <line id="Line_16" data-name="Line 16" x2="52.567" y2="48.523" transform="translate(288.213 -14.419) rotate(90)" fill="none" stroke="#fff" stroke-width="4" opacity="0.8"/>
+          <line id="Line_18" data-name="Line 18" x2="52.567" y2="48.523" transform="translate(408.213 -14.419) rotate(90)" fill="none" stroke="#fff" stroke-width="4" opacity="0.8"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
