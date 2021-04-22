@@ -16,14 +16,16 @@
   background-image: url('../images/Wavey-Fingerprint.svg');
   background-position: 0px 0px;
   background-size: auto;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: Exo, sans-serif;
+  line-height: 24px;
   text-transform: none;
 }
 
 .logo {
   position: relative;
   z-index: 1;
-  width: 260px;
+  width: 210px;
+  margin-top: 23px;
 }
 
 .header {
@@ -47,7 +49,7 @@
 .line002 {
   position: absolute;
   left: 3%;
-  top: 9%;
+  top: 10%;
   right: auto;
   bottom: auto;
   z-index: 0;
@@ -57,7 +59,7 @@
 .line003 {
   position: absolute;
   left: 3%;
-  top: 5%;
+  top: 6%;
   right: auto;
   bottom: auto;
   z-index: 0;
@@ -67,7 +69,7 @@
 .line004 {
   position: absolute;
   left: 3%;
-  top: 6%;
+  top: 5%;
   right: auto;
   bottom: auto;
   z-index: 0;
@@ -116,7 +118,7 @@
 }
 
 .button-main {
-  display: none;
+  display: inline-block;
   padding-top: 18px;
   padding-right: 61px;
   padding-bottom: 18px;
@@ -124,7 +126,7 @@
   border-width: 5px;
   border-color: #0e0724;
   border-radius: 8px;
-  background-color: #141f1e;
+  background-color: #40ddd5;
   background-image: url('../images/arrow-thin-right.svg');
   background-position: 93% 50%;
   background-size: auto 32px;
@@ -136,7 +138,7 @@
 }
 
 .deco-line-001 {
-  display: none;
+  display: block;
   width: 540px;
   height: 2px;
   margin-right: auto;
@@ -229,7 +231,6 @@
 }
 
 .button-telegram {
-  display: none;
   padding: 18px 15px 18px 59px;
   border-style: solid;
   border-width: 5px;
@@ -370,15 +371,47 @@
   color: #d8d8d8;
 }
 
-.announcement-title {
-  font-family: Exo, sans-serif;
-  color: #ff2b2b;
-  text-align: center;
+.important-title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-right: 20px;
+  padding-bottom: 8px;
+  float: left;
+  color: #ff39c4;
+  text-shadow: 0 0 16px #ff39c4;
 }
 
-.paragraph-3 {
-  font-family: Exo, sans-serif;
-  color: #ff1f1f;
+.important-message {
+  padding: 10px;
+  float: left;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #ff39c2;
+  background-color: rgba(230, 45, 254, 0.13);
+  box-shadow: -7px -7px 0 0 rgba(201, 50, 156, 0.41);
+  opacity: 0.77;
+  color: #fff;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.important-underline {
+  width: 100%;
+  height: 3px;
+  margin-bottom: 20px;
+  float: left;
+  border-radius: 2px;
+  background-color: #ff39c3;
+  box-shadow: 0 0 10px 1px #ee26b1;
+  opacity: 1;
+}
+
+.logo-revived {
+  position: relative;
+  z-index: 2;
+  width: 250px;
+  margin-top: 23px;
+  margin-left: 13px;
 }
 
 @media screen and (max-width: 991px) {
@@ -473,6 +506,10 @@
     padding-right: 10px;
     padding-left: 10px;
     font-size: 13px;
+  }
+
+  .button-main {
+    font-size: 21px;
   }
 
   .deco-line-001 {
@@ -618,7 +655,7 @@
   }
 }
 
-#w-node-d6a292f4-5bfd-a148-9942-c7836511cc78-9a44727d {
+#w-node-a39bc4d4-eab6-7917-1693-29cd16676f45-9a44727d {
   -ms-grid-row: span 1;
   grid-row-start: span 1;
   -ms-grid-row-span: 1;
@@ -629,7 +666,18 @@
   grid-column-end: span 2;
 }
 
-#w-node-a39bc4d4-eab6-7917-1693-29cd16676f45-9a44727d {
+#w-node-ed0acd23-5eac-54a6-62dc-4610cd5e781a-9a44727d {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+}
+
+#w-node-_22b9f934-3fae-c732-3033-b28f2269c28d-9a44727d {
   -ms-grid-row: span 1;
   grid-row-start: span 1;
   -ms-grid-row-span: 1;
@@ -649,6 +697,17 @@
   grid-column-start: span 2;
   -ms-grid-column-span: 2;
   grid-column-end: span 2;
+}
+
+#w-node-_986f1311-3e06-eaf6-8cba-9e7ddea43e11-9a44727d {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
 }
 
 #w-node-_80967a8d-0892-d25e-c9d0-de84bb0a42aa-9a44727d {
@@ -856,3 +915,4 @@
     grid-row-end: span 1;
   }
 }
+
